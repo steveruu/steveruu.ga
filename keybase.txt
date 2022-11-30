@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/steveruu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://steveruu.ga
+  * I am steveruu (https://keybase.io/steveruu) on keybase.
+  * I have a public key ASARPIU8HDdPBpA-9nf6aohMKOWnYhXSybsfjrvWU0Jvqwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206e615a5eaa5862cb456ff3e83196f5a839dd3b70a44c43211c4814143dc3ac550a",
+      "host": "keybase.io",
+      "kid": "0120113c853c1c374f06903ef677fa6a884c28e5a76215d2c9bb1f8ebbd653426fab0a",
+      "uid": "b2734b4c268f237f1b544d3d6eb5b019",
+      "username": "steveruu"
+    },
+    "merkle_root": {
+      "ctime": 1669833738,
+      "hash": "8472a1c719067f20ba27bff578295f8e955a9a21144ec68eaa8ef3b40552ed3d037a3790d26a4a05219a019e7914b678287ec4e19719223f43d6a23b01195ff9",
+      "hash_meta": "b0fd2cc6dd75b263fe5e14fee20578de5961e983c327e7cc7d828218bc4dec25",
+      "seqno": 23642425
+    },
+    "service": {
+      "entropy": "mYffXXZW8sAcHFTVYH8AYopS",
+      "hostname": "steveruu.ga",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1669833834,
+  "expire_in": 504576000,
+  "prev": "98b328d47b0e77aeae2619b0a9e38f33462c502329de0f169275f58a62e1864a",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgETyFPBw3TwaQPvZ3+mqITCjlp2IV0sm7H4671lNCb6sKp3BheWxvYWTESpcCFcQgmLMo1HsOd66uJhmwqeOPM0YsUCMp3g8WknX1imLhhkrEINVjdDZO3pL0KxH70Q5HT15tBihtELznYDvjn/N1jm/lAgHCo3NpZ8RAINEUeGU9kxl8kKQ6vAI4O3fJWAG7ZYg9nyVENs9xLjetsoSalmBdWyvGIy4+Dzpd+yleln6Gha5Z6o2JyGCtAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGWi0931mW2IW/++0EnQ6d3gobWc1otSWwHcTANwA+0Oo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/steveruu
+
+==================================================================

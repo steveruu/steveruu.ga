@@ -1,0 +1,52 @@
+body {
+    background-color: #121212;
+    color: rgba(255, 255, 255, 0.785);
+    font-family: 'Alexandria', sans-serif;
+    text-align: center;
+    
+}
+
+::selection {
+    background-color: #f5f5f5;
+    color: #121212;
+}
+
+h1 {
+    font-size: 3.75em;
+    transition: 0.5s ease;
+}
+
+.title {
+    color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:not(:hover) {
+    transition: 0.5s ease-out;
+}
+
+a:hover {
+    color: #ffffff;
+    transition: 0.5s ease-out;
+}
+
+main {
+    display: block;
+    margin: 16px auto;
+    display: table;
+    width: 60vw;
+    max-width: 60vw;
+}
+
+.femboy {
+    color: #C8518A;
+}
+
+.music {
+    color: #1ed760;
+    
+}
